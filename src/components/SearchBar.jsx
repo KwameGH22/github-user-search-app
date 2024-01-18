@@ -7,7 +7,7 @@ const SearchBar = () => {
 
 
   return (
-    <div className={`${darkTheme ? 'bg-[#1E2A47] ': 'bg-white '} py-2 px-2 mt-4 rounded-md shadow-md m-auto w-full`}>
+    <div className={`${darkTheme ? 'bg-[#1E2A47] ': 'bg-white '} py-2 px-2 mt-4 rounded-md shadow-md m-auto w-full max-w-full`}>
        <div className='flex items-center justify-between'>
           <div className='flex items-center gap-4'>
              <CiSearch className='text-[#0079FF] text-[24px]' />

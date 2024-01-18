@@ -13,7 +13,7 @@ const Header = () => {
   return (
     <div className='flex justify-between w-full items-center'>
       <div>
-        <h1>devFinder</h1>
+        <h1 className='font-black text-2xl'>devFinder</h1>
       </div>
       <div className='flex items-center gap-4'>
         {darkTheme ? <h1>LIGHT</h1> : <h1>DARK</h1> }
