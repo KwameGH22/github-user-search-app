@@ -3,7 +3,7 @@
 devFinder is a React application that allows you to search for a github user and display information such as the number of repos, followers and followings. It also have a theming capability which enable userss to toggle a Dark or Light theme to protect the optical health of users.
 
 ## Live Demo
-[Click Me](https://sharpartz-devfinder-app.netlify.app/)
+[Click Me](https://mydevfinder.netlify.app/)
 
 ## Table of Contents
 - Features
